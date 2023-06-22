@@ -117,10 +117,12 @@
 Indica la licencia bajo la cual se distribuye el proyecto. Por ejemplo:
 
 Este proyecto está bajo la Licencia MIT.
+https://github.com/GinoJSB/Prueba-tecnica-PHP
 
 
 ## Contacto
     Proporciona información de contacto para que las personas puedan comunicarse contigo en caso de preguntas, problemas o colaboraciones.
+    Ginohable14@gmail.com
 
 
 ## Readme_Laravel
